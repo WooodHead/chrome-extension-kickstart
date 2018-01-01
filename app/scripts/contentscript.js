@@ -1,4 +1,6 @@
 // Enable chromereload by uncommenting this line:
-import 'chromereload/devonly'
+import 'chromereload/devonly';
 
-console.log(`'Allo 'Allo! Content script`)
+$(function() {
+
+});
