@@ -10,7 +10,8 @@
   },
   "globals": {
     "chrome": true,
-    "$": true
+    "$": true,
+    "jQuery": true
   },
   "rules": {
     "linebreak-style": ["error", "unix"],
